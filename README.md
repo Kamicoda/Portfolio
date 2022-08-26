@@ -1,7 +1,4 @@
-       |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)
+THIS IS OUTDATED only exists as a reminder
     
 # David Johnson Portfolio.
 
